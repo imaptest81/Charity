@@ -1,0 +1,4 @@
+CharityApplication.Droid.MainActivity, CharityApplication.Droid;md5f1bb32c6f3431ebe1dabf8fdf0cc84c7.MainActivity
+CharityApplication.Droid.MainActivity, CharityApplication.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f1bb32c6f3431ebe1dabf8fdf0cc84c7.MainActivity
+CharityApplication.Droid.MainActivity;md5f1bb32c6f3431ebe1dabf8fdf0cc84c7.MainActivity
+charityapplication.droid.MainActivity;md5f1bb32c6f3431ebe1dabf8fdf0cc84c7.MainActivity
